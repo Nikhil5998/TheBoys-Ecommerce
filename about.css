@@ -1,0 +1,24 @@
+.aboutus {
+    padding: 20px;
+  }
+  
+  .slider {
+    display: flex;
+    overflow: hidden;
+    margin: 20px 0;
+  }
+  
+  .slider img {
+    width: 100%;
+    height: auto;
+  }
+  .aboutus h1{
+    font-style: initial;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  @media screen and (max-width: 768px) {
+    .aboutus {
+      padding: 10px;
+    }
+  }
+  
